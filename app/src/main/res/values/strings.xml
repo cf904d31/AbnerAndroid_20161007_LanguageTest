@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">LanguageTest</string>
     <string name="welcome_statement">Hello!Customer!</string>
-    <string name="text1">Click me</string>
+    <string name="text1_on">Click me On</string>
+    <string name="text1_off">Click me Off</string>
 </resources>

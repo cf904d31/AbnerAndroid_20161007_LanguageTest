@@ -2,5 +2,6 @@
 <resources>
     <string name="app_name">多國語言測試</string>
     <string name="welcome_statement">哈囉!訪客您好</string>
-    <string name="text1">請點我</string>
+    <string name="text1_on">請點我-開</string>
+    <string name="text1_off">請點我-關</string>
 </resources>
