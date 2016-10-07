@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">多國語言測試</string>
+    <string name="welcome_statement">哈囉!訪客您好</string>
+    <string name="text1">請點我</string>
+</resources>

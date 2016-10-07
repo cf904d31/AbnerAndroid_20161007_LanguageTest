@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LanguageTest</string>
+    <string name="welcome_statement">Hello!Customer!</string>
+    <string name="text1">Click me</string>
 </resources>
